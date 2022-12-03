@@ -7,8 +7,8 @@ This software is an interactive map program to help library and museum visitors 
 
 ## How to set up enviroment
 1. Download Apache Netbeans IDE 15 application: https://netbeans.apache.org/download/index.html. 
-2. Download the project zip file, find and unzip the download in file explorer.  
-3. Open Netbeans and open the project: File > Open Project > navigate to and select the unziped project, it should have a little java coffee cup symbol next to the folder name > Open Project 
+2. Pull the project repo or download the project as a zip file (find and unzip the download in file explorer if using zip).  
+3. Open Netbeans and open the project: File > Open Project > navigate to and select the project, it should have a little java coffee cup symbol next to the folder name > Open Project 
 4. Insure python is installed on you machine, pip install pandas, xlrd, openpyxl. 
 
 ## How to modify the code
