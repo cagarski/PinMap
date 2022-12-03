@@ -28,7 +28,8 @@ This software is an interactive map program to help library and museum visitors 
 1. In Main.java, on line 73, change the geoposition inputs (lat, long) to the geographic center of your state. 
 2. You may also want to change the zoom on line 75 depending on the size of your state. 
 
-### Filepaths - There are 4 file paths you must change. The file paths currently start with "C:/PinMap/PinMap/...". You will need to add what goes between C:/ and the first PinMap depending on where you pulled the repo to. 
+### Filepaths
+There are 4 file paths you must change. The file paths currently start with "C:/PinMap/PinMap/...". You will need to add what goes between C:/ and the first PinMap depending on where you pulled the repo to. 
 1. Path of the python script: In Main.java on line 128, the path that ends in "build/classes/generate_shelf_locs.py". 
 2. Path for writing visitor data: In generate_shelf_locs.py on line 43, the path that ends in "Python Addition/Visitors.csv". 
 3. Path for retrieving data on US locations: In generate_shelf_locs.py on line 34, the path that ends in "Python Addition/US-counties.xlsx", copy your US data file to the python addition folder and change the file path accordingly. 
